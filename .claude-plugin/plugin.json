@@ -1,0 +1,11 @@
+{
+  "name": "agent-doctor",
+  "description": "AIエージェントの作業環境を診断し、同名skillの衝突・hooksの多重発火・MCPの重複・CLAUDE.md・AGENTS.md の矛盾を作業前に警告する（Claude Code / Codex 対応、読み取り専用）",
+  "version": "1.0.0",
+  "author": {
+    "name": "Penta"
+  },
+  "repository": "https://github.com/penta-air/agent-doctor",
+  "license": "MIT",
+  "keywords": ["diagnostics", "skills", "hooks", "mcp", "codex", "claude-code"]
+}
